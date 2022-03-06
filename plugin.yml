@@ -1,7 +1,0 @@
----
-name: nightvision
-version: 1.0.1
-main: Lined\nightvision\Main
-api: 4.2.0
-src-namespace-prefix: Lined\nightvision
-...
