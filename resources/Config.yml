@@ -1,0 +1,12 @@
+#*************EN*************
+# Use the § symbol for color coding
+# Color code list https://minecraft.tools/en/color-code.php
+# Use {name} for the name of the player who execute the command
+
+#*************FR*************
+# Utilisez le simbole § pour mettre de la couleur
+# Liste des codes couleur https://minecraft.tools/fr/color-code.php
+# Utilisez {name} pour le nom du joueur qui execute la commande
+
+message: "Vous avez bien activé votre Nightvision"
+time: "60" #time in seconds / temps en secondes
